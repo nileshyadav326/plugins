@@ -1,7 +1,7 @@
 ===  Remove Default Howdy Text ===
 
-Author URI: http://speedospeed.allalla.com
-URI: http://speedospeed.allalla.com/plugins/removehowdy.zip
+Author URI: https://github.com/nileshyadav326/plugins.git
+URI: https://github.com/nileshyadav326/plugins.git
 Author: Nilesh Yadav: GNU General Public License version 3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
