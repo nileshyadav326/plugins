@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Remove Default Howdy Text 
- * Plugin URI: http://speedospeed.allalla.com/plugins/removehowdy.zip
+ * Plugin URI: exmaple.com
  * Description: This plugin is vary essancial for removing the default wordpress Howdy text put                there own name
  * Version: 1.0
  * Author: Nilesh Yadav
- * Author URI: http://speedospeed.allalla.com
+ * Author URI: exmaple.com
  * License: GPL2
  */
  
